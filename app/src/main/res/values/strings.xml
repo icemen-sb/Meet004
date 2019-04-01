@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meet004</string>
+    <string name="default_textView">MEET NUMRER FOUR</string>
+    <string name="default_button">Сменить значение Менеджера состояний</string>
+</resources>
